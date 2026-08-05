@@ -1,0 +1,5 @@
+Python is useful for learning programming.
+This file is used for a Python file handling task.
+Sometimes Python programs read text from files.
+This task counts lines and words.
+The keyword python appears several times.
